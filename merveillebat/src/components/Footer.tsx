@@ -13,7 +13,7 @@ const Footer = () => {
               <img 
                 src="/images/logoMB.png" 
                 alt="MERVEILLEBAT" 
-                className="h-32 w-auto relative z-10" 
+                className="h-32 w-auto relative z-10"
                 referrerPolicy="no-referrer" 
               />
             </Link>
