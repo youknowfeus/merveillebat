@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="space-y-6">
             <Link to="/" className="flex items-center bg-white p-1.5 rounded-xl shadow-sm inline-block">
               <img 
-                src="/images/logoMB.png" 
+                src="merveillebat/images/logoMB.png" 
                 alt="MERVEILLEBAT" 
                 className="h-32 w-auto relative z-10"
                 referrerPolicy="no-referrer" 
