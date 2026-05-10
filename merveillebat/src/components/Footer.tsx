@@ -11,14 +11,14 @@ const Footer = () => {
           <div className="space-y-6">
             <Link to="/" className="flex items-center bg-white p-1.5 rounded-xl shadow-sm inline-block">
               <img 
-                src="merveillebat/images/logoMB.png" 
+                src="/images/logoMB.png" 
                 alt="MERVEILLEBAT" 
                 className="h-32 w-auto relative z-10"
                 referrerPolicy="no-referrer" 
               />
             </Link>
             <p className="text-gray-400 text-sm leading-relaxed">
-              MerveilleBAT est votre partenaire de confiance au Sénégal pour tous vos projets immobiliers, de construction et d'architecture. Nous allions expertise technique et esthétique sahaléenne.
+              MerveilleBAT est votre partenaire de confiance au Sénégal pour tous vos projets immobiliers, de construction et d'architecture. Nous allions expertise technique et esthétique sahalée[...]
             </p>
             <div className="flex space-x-4">
               <a href="#" className="bg-white/10 p-2 rounded-full hover:bg-merveille-orange transition-colors">
